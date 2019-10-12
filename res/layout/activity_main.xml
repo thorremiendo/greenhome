@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/bgimage"
+    >
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="228dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="136dp"
+        android:background="#4CAF50"
+        android:text="Start Planting"
+        android:textColor="#F9F9F9" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="218dp"
+        android:background="#4CAF50"
+        android:text="Plant Identifier"
+        android:textColor="#F9F9F9" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="223dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="300dp"
+        android:background="#4CAF50"
+        android:text="Find Pot"
+        android:textColor="#F9F9F9" />
+
+</RelativeLayout>

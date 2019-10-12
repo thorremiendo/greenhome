@@ -1,0 +1,7 @@
+#Thu Oct 10 18:24:45 PHT 2019
+base.0=/Users/thorremiendo/Documents/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/thorremiendo/Documents/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
